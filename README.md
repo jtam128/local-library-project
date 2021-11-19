@@ -20,4 +20,4 @@ For this project, I built a number of different algorithims to help complete an 
 ## "Stats by Book" Page
 ![image](https://user-images.githubusercontent.com/74563848/142657628-b52e479a-9a03-4cef-b7d1-daeba28ecaec.png)
 ## "Stats By Account" Page
-![image](https://user-images.githubusercontent.com/74563848/142657677-49f5d0d7-a745-4eb7-8447-da3ff71596e7.png)
+![image](https://user-images.githubusercontent.com/74563848/142657949-73a06741-597f-4377-a4c0-ffb1d01eef58.png)
