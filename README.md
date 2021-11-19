@@ -9,7 +9,8 @@ For this project, I built a number of different algorithims to help complete an 
 
 [Live Link](https://local-library-pi.vercel.app/)
 
-# Built With:
+# Technology & Tools
+Built With:
 * HTML
 * CSS
 * JavaScript
