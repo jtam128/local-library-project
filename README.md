@@ -13,9 +13,9 @@ For this project, I built a number of different algorithims to help complete an 
 
 # Technology & Tools
 Built With:
-* HTML
-* CSS
 * JavaScript
+* HTML
+* Bootstrap
 
 # Images
 ## Initial Screen
